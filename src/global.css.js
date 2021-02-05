@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import { accent } from 'constants/theme';
-
+import background from "images/cats.png"
 export default createGlobalStyle`
   html, body, div, span, applet, object, iframe,
   h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -38,15 +38,22 @@ export default createGlobalStyle`
     line-height: 1;
     font-size: 1.6rem;
     color: #000;
-    background-color: #fff;
+    background-color: #008891;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility; 
     -webkit-font-feature-settings: "pnum";
     font-feature-settings: "pnum";
     font-variant-numeric: proportional-nums;
+    background-image:  url(${background});
+    
+    background-repeat: repeat;
+    
   }
+h1 {
+  background-color: white;
+}
 
   ol, ul {
     list-style: none;

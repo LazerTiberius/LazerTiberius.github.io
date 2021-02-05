@@ -20,6 +20,7 @@
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended"
   ],
+ 
   "plugins": ["prettier", "jsx-a11y"],
   "settings": {
     "react": {

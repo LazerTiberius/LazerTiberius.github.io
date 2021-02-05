@@ -1,0 +1,104 @@
+{
+    "socialCards": {
+        "items": [
+            {
+                "title": "Nintendo",
+                "icon": "SiNintendoswitch",
+                "frontColor": "#e4000f",
+                "iconColor" : "white",
+                "backContent": "SW-1729-7473-2791"
+            },
+            {
+                "title": "Playstation",
+                "icon": "SiPlaystation",
+                "frontColor": "#0112FE",
+                "iconColor" : "white",
+                "backContent": "Oda--Yukimura"
+            },
+            {
+                "title": "Goodreads",
+                "icon": "SiGoodreads",
+                "frontColor": "#f4f1ea",
+                "iconColor" : "black",
+                "backContent": "https://www.goodreads.com/user/show/99621588-david-patzke",
+                "flavorText": "Be part of the world's largest community of book lovers on Goodreads."
+            },
+            {
+                "title": "Twitter",
+                "icon": "SiTwitter",
+                "frontColor": "#1DA1F2",
+                "iconColor" : "white",
+                "backContent": "https://twitter.com/Oda_Yukimura"
+            
+            },
+            {
+                "title": "Letterboxd",
+                "icon": "SiLetterboxd",
+                "frontColor": "rgb(0 176 32)",
+                "iconColor" : "white",
+                "backContent": "https://letterboxd.com/daydayday/",
+                "flavorText": "Letterboxd is a social network for sharing your taste in film. Use it as a diary to record your opinion about films as you watch them, or just to keep track of films"
+            },
+            {
+                "title": "Steam",
+                "icon": "SiSteam",
+                "frontColor": "black",
+                "iconColor" : "white",
+                "backContent": "https://steamcommunity.com/id/InvincibleOldMaster/",
+                "flavorText": "Steam"
+            },
+            {
+                "title": "Discord",
+                "icon": "SiDiscord",
+                "frontColor": "#7289DA",
+                "iconColor" : "white",
+                "backContent": "DayDay | David#3729"
+            },
+            {
+                "title": "Twitch",
+                "icon": "SiTwitch",
+                "frontColor": "#6441a5",
+                "iconColor" : "white",
+                "backContent": "https://www.twitch.tv/the_dayday"
+            },
+            {
+                "title": "BattleNet",
+                "icon": "SiBattleDotNet",
+                "frontColor": "black",
+                "iconColor" : "#ace5ee",
+                "backContent": "OdaYukimura#2583",
+                "flavorText" : "BattleNet/CoD"
+            },
+            {
+                "title": "Xbox",
+                "icon": "SiXbox",
+                "frontColor": "#0e7a0d",
+                "iconColor" : "silver",
+                "backContent": "DayDay#2980"
+            },
+            {
+                "title": "Github",
+                "icon": "SiGithub",
+                "frontColor": "black",
+                "iconColor" : "white",
+                "backContent": "https://github.com/LazerTiberius"
+            },
+            {
+                "title": "Instagram",
+                "icon": "SiInstagram",
+                "frontColor": "radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);",
+                "iconColor" : "white",
+                "backContent": "https://twitter.com/Oda_Yukimura"
+            },
+            {
+                "title": "GGApp",
+                "icon": "CgGames",
+                "frontColor": "black",
+                "iconColor" : "white",
+                "backContent": "https://ggapp.io/Dayday",
+                "flavorText": "The GGApp - Discover new games, keep track of the ones you want to play, and connect with friends."
+            }
+           
+        ]
+    }
+}
