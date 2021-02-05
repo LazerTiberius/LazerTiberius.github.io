@@ -51,14 +51,14 @@ export default createGlobalStyle`
     background-repeat: repeat;
     
   }
-h1 {
+h1, h2, li {
   background-color: white;
 }
 
   ol, ul {
     list-style: none;
   }
-
+  
   blockquote, q {
     quotes: none;
   }

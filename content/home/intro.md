@@ -1,1 +1,1 @@
-Hi, my name is David and this is my cute little blog. I will wirte mostly about SoftwareDev, Games, Movies and my beatiful cats.
+Hi, my name is David and this is my cute little blog. I will write mostly about SoftwareDev, Games, Movies and my beautiful cats.
