@@ -97,6 +97,14 @@
                 "iconColor" : "white",
                 "backContent": "https://ggapp.io/Dayday",
                 "flavorText": "The GGApp - Discover new games, keep track of the ones you want to play, and connect with friends."
+            },
+            {
+                "title": "Riot",
+                "icon": "SiRiotgames",
+                "frontColor": "#DB1515",
+                "iconColor" : "white",
+                "backContent": "Dayday#1337"
+                
             }
            
         ]
